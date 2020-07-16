@@ -1,0 +1,1 @@
+delete from prereq where course_id = '001';

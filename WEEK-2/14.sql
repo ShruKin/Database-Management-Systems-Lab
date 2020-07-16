@@ -1,0 +1,1 @@
+alter table student drop column date_of_birth;

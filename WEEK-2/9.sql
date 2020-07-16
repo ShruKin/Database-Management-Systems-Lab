@@ -1,0 +1,1 @@
+delete from department where DEPT_NAME = 'IT';
