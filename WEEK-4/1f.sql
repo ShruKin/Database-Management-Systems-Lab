@@ -1,0 +1,1 @@
+alter table workers add age Number(2);
