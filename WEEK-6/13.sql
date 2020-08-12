@@ -1,0 +1,1 @@
+select distinct(d_name) from department;

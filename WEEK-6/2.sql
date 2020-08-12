@@ -1,0 +1,1 @@
+select d_name, d_loc from department;
